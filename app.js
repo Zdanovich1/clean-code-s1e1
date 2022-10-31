@@ -49,6 +49,7 @@ listItem.className="list-item";
   deleteButton.className="button delete";
   deleteButtonImg.src='./remove.svg';
   deleteButtonImg.className="delete-button-img";
+  deleteButtonImg.alt="Delete icon";
   deleteButton.appendChild(deleteButtonImg);
 
 
